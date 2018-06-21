@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "Hello, World!"
+date:   2018-06-21 18:43:50 +0100
+categories: mu update
 ---
 
 Welcome to "Made With Mu", a blog to celebrate the projects and achievements of
@@ -15,5 +16,12 @@ definitely mean you**.
 
 We're friendly and, if needed, will help make sure your project is presented in
 the best possible way.
+
+{% highlight python %}
+def hello(name):
+    return f"Hello, {name}" 
+name = input("What is your name? ")
+print(hello(name))
+{% endhighlight %}
 
 What are you waiting for? Go [submit something](/submit)!
