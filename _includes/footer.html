@@ -8,7 +8,10 @@
             &copy; <span class="p-name">Nicholas H.Tollervey</span>
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li>
+            <a href="{{ "/feed.xml" | relative_url }}">RSS</a> /
+            <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a> /
+            <a class="p-org" href="https://codewith.mu/">codewith.mu</a></li>
             {%- endif -%}
         </ul>
       </div>

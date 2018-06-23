@@ -18,7 +18,7 @@ author: Nicholas H.Tollervey
 email: ntoll@ntoll.org
 description: >- # this means to ignore newlines until "baseurl:"
   A blog to celebrate projects that use the Mu Python code editor to
-  build cool stuff.
+  create cool stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://madewith.mu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ntoll 
