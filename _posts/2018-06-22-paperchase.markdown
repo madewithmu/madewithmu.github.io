@@ -5,6 +5,10 @@ date:   2018-06-22 16:11:50 +0100
 categories: mu pygame pygamezero 
 ---
 
+Have you ever wanted to write a game? It turns out that Mu and PyGame Zero make
+this really easy for beginner programmers. Read on to learn how the author used
+both to create a goofy game for the wonderful PyWeek event.
+
 <img src="/assets/red_v_blue.gif"/>
 
 [PyWeek](https://pyweek.org/) is a fun, community-organised game-making event /
