@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello, World!"
 date:   2018-06-21 18:43:50 +0100
+image:  /assets/mu.gif
 categories: mu update
 ---
 

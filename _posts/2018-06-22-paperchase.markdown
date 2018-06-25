@@ -2,6 +2,7 @@
 layout: post
 title:  PyWeek, PyGameZero, Paperchase and Mu
 date:   2018-06-22 16:11:50 +0100
+image:  /assets/red_v_blue.gif
 categories: mu pygame pygamezero 
 ---
 

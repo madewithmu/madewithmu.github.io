@@ -2,6 +2,7 @@
 layout: post
 title:  Adafruit, CircuitPython and Mu
 date:   2018-06-24 12:17:00 +0100
+image:  /assets/adafruit_serial.gif
 categories: mu adafruit circuitpython
 ---
 
