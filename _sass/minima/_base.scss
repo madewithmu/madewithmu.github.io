@@ -66,7 +66,16 @@ img {
   border-radius: none;
 }
 
+/**
+ * Videos
+ */
 
+video {
+  max-width: 100%;
+  vertical-align: middle;
+  border: 1px $grey-color solid;
+  border-radius: 6px;
+}
 
 /**
  * Figures

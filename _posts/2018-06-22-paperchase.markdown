@@ -19,7 +19,7 @@ PyWeek challenge:
 5. May inspire new projects (with ready made teams!)
 
 As the name suggests, all entries should be written in Python and incorporate a
-theme annouced at the start of the challenge.
+theme announced at the start of the challenge.
 
 PyWeek happens a couple of times a year and in April it was organised by my
 buddy Dan Pope (aka [lordmauve](https://twitter.com/lordmauve)). Dan has many
@@ -37,12 +37,12 @@ Dan created PyGame Zero after working with a group of teachers at PyCon UK's
 education track. Since he's a gifted and experienced game developer he
 was able to create a simple graphical game in about an hour. As he did so, he
 explained to the watching teachers exactly what it was he was doing. However,
-the feedback from the teachers was clear, "While PyGame might be easy for
+the feedback from the teachers was clear (paraphrased), "While PyGame might be easy for
 you (Dan), the kids we teach would find it hard to put together 10 lines of
 Python, let alone the 500 line you just created; we need a way that makes
 it easy to create something cool with very little code".
 
-And so, the seeds for PyGame Zero were sown. What Dan created was a simple and
+And so, the seeds for PyGame Zero were sown. Dan has created a simple and
 easy-to-understand wrapper that enables learners to make something graphical
 in only a handful of lines of code. If you're interested in learning
 more about PyGame Zero (including a really great tutorial) go check out
@@ -50,8 +50,8 @@ the beautifully written [project documentation](https://pygame-zero.readthedocs.
 
 Since Mu has a PyGame Zero mode, I thought I'd enter the most recent PyWeek and
 try to create my first ever game using just Mu and PyGame Zero. The theme was
-"two worlds" and after an ideas generation session with my three kids the
-concept for a game, called Paperchase, was born.
+"two worlds" and after an ideas generation session (with input from my three
+kids) the concept for a game, called Paperchase, was born.
 
 The blurb for the game says...
 
@@ -65,8 +65,8 @@ The blurb for the game says...
 The [PyGame Zero tutorial](https://pygame-zero.readthedocs.io/en/stable/introduction.html)
 shows you how to make an animated alien float across
 the screen. I took this as my starting point and, after several hours of
-drawing and discarding a huge number of naff-looking stick figures and only a
-few lines of Python code I had this:
+drawing and discarding a huge number of naff-looking stick figures and and
+taking about 5 minutes on only a few lines of Python code I had this:
 
 <img src="/assets/running_man.gif"/>
 
