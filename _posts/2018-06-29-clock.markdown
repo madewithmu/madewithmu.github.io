@@ -3,7 +3,7 @@ layout: post
 title:  Happy Homemade Horology with Trinket, CircuitPython and Mu
 date:   2018-06-29 12:14:00 +0100
 image:  /assets/clock.jpg
-categories: mu adafruit circuitpython submitted transcode
+categories: mu submitted
 ---
 
 [Leila and Emma](https://levit.be/) got in touch to tell us they've made
