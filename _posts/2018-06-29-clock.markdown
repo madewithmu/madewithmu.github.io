@@ -45,7 +45,7 @@ linked-to Wikipedia article is interesting, I recommend
 [this wonderful little book](https://www.amazon.com/Wabi-Sabi-Artists-Designers-Poets-Philosophers/dp/0981484603/)
 for those who want to learn more).
 Wabi-Sabi is the beauty found in impermanent, incomplete and unconventional
-objects. The development of and solution for this project is a wonderful
+objects. The development of, and solution for this project is a wonderful
 example of such beauty.
 
 Finally, the code they created in Mu has a really cool feature to handle
