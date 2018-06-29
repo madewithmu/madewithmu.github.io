@@ -59,11 +59,15 @@ img {
   vertical-align: middle;
   border: 1px $grey-color solid;
   border-radius: 6px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 .site-title img {
   border: none;
   border-radius: none;
+  display: inline;
 }
 
 /**

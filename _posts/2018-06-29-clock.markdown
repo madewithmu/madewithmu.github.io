@@ -1,0 +1,60 @@
+---
+layout: post
+title:  Happy Homemade Horology with Trinket, CircuitPython and Mu
+date:   2018-06-29 12:14:00 +0100
+image:  /assets/clock.jpg
+categories: mu adafruit circuitpython submitted transcode
+---
+
+[Leila and Emma](https://levit.be/) got in touch to tell us they've made
+themselves a stylish homemade clock! Using an
+[Adafruit M0 Trinket](https://www.adafruit.com/product/3500), a quad 7-segment
+display and various other components they hacked all the
+[CircuitPython](https://learn.adafruit.com/category/circuitpython) code
+together in Mu! Read on to learn more...
+
+<img src="/assets/clock.jpg"/>
+
+I first met Leila and Emma in 2015, when [Trans*Code](https://twitter.com/trans_code)
+was first [welcomed to PyCon UK](http://2015.pyconuk.org/transcode/). On
+subsequent meetings it has always been a great pleasure to hear of their
+homemade electronics projects and how they've thought up ever more creative
+and interesting ways to use MicroPython or CircuitPython in their work. They
+have been great supporters of Mu since the very earliest releases, so "thank
+you" both for your encouragement, feedback and support.
+
+When the call went out for user-contributed projects for this blog, it didn't
+take long for them to submit the first contribution, and what a fun project it
+is!
+
+Their own digital alarm clock broke, and none of the replacements
+fitted their requirements, so rather than buy a new one they used it as an
+opportunity to learn and make their own.
+
+What I love about this project is that it took several attempts to get it
+right. In the end they came up with a device that worked with a much simpler
+design than their original solution (that didn't work at all!). This is a
+common occurrence: it takes time to work out how to solve a problem and you're
+likely to encounter unforeseen problems along the way. Only after "playing
+around" and experimenting for a bit will a simple, elegant and (most
+importantly) *working* solution emerge.
+
+Another aspect of the project that I really like is its Wabi-Sabi-ness. I'm a
+big fan of [Wabi Sabi](https://en.wikipedia.org/wiki/Wabi-sabi) (while the
+linked-to Wikipedia article is interesting, I recommend
+[this wonderful little book](https://www.amazon.com/Wabi-Sabi-Artists-Designers-Poets-Philosophers/dp/0981484603/)
+for those who want to learn more).
+Wabi-Sabi is the beauty found in impermanent, incomplete and unconventional
+objects. The development of and solution for this project is a wonderful
+example of such beauty.
+
+Finally, the code they created in Mu has a really cool feature to handle
+button presses to change modes (their clock not only tells the time, but will
+display the date and year!). This is another important aspect of the project:
+Leila and Emma are in control of their digital device and, if they feel so
+inclined, are free to change how it works or fix any bugs. They can hack it!
+
+You can read Leila's full write-up of the project, including source code and
+circuit designs [at her blog](https://blog.levit.be/we-made-a-clock-with-python/).
+
+Great work Leila and Emma! :-)
