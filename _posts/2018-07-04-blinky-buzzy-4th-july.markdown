@@ -18,7 +18,7 @@ of us, he builds robots and other Maker-type projects. This particular project
 blinks different messages in Morse code. You can configure the LED colour as
 well as toggle the buzzer (so the board "bloops" Morse code too).
 
-He explains, "I love the idea that I could use Python to program a
+He says, "I love the idea that I could use Python to program a
 microcontroller" and explains the origin of the project as follows:
 
 > I was at the San Mateo Maker Faire this year (I was at the first one, and
