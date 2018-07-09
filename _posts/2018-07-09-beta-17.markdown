@@ -1,0 +1,56 @@
+---
+layout: post
+title:  Announcing Mu 1.0.0-beta.17 
+date:   2018-07-09 18:30:00 +0100
+image:  /assets/mu_splash.png
+categories: mu releases 
+---
+
+We're pleased to announce the availability of [Mu 1.0.0-beta.17](https://codewith.mu/en/download),
+a Python code editor for beginner programmers!
+This is the final beta version before a release candidate later this week and
+the final 1.0 release sometime next week. This version is feature complete for
+1.0. Any further changes will be bug fixes or cosmetic changes rather than new
+features.
+
+<img src="/assets/mu_splash.png"/>
+
+The full list of changes can be read [in the developer documentation](https://mu.readthedocs.io/en/latest/changes.html#beta-17).
+However, highlights include:
+
+* A major re-write of how MicroPython code is flashed onto the BBC micro:bit.
+  **If there's one thing we'd love to be tested by users, it's this!** All
+  feedback most welcome ([submit a new issue if you find a problem](https://codewith.mu/en/howto/bugs)
+  or [discuss things via online chat](https://codewith.mu/en/discuss)).
+* The latest and greatest version of [MicroPython](https://micropython.org/)
+  for the BBC micro:bit.
+* Updates to the Python visual debugger (which is working *really well*).
+* Protection from "shadow modules". When many new programmers first save, for
+  example, some
+  `turtle` based code they call their file `turtle.py`. This breaks Python in
+  a subtle yet opaque manner for beginners. Of course, their new `turtle.py` file
+  takes precedence in the import path, so where their code says `import turtle`
+  it is, in fact, trying to import itself..! Not a good situation for anyone,
+  let alone a beginner programmer. As a result, Mu will complain if you try to
+  give a file the same name as an existing module on your Python path. We
+  know from extensive feedback this feature will save hours of confused
+  head-scratching for beginners and teachers.
+* We've also added a very simple yet remarkably useful "find and replace"
+  dialog which you can access with the `Ctrl-F` hot key combination.
+* Talking of hot key combinations, if you highlight some text and press
+  `Ctrl-K` it'll be toggled between commented and uncommented. If no text is
+  highlighted, the current line is toggled between these two states.
+* Mu has been updated to use the latest version of Qt as its GUI framework.
+* Plenty of minor fixes, tidy-ups and bugs squashed.
+
+The next release will be a bug-fix "release candidate". This will be a
+dress rehearsal for the final release which will follow soon after. Happily,
+most of Mu's test, build and package infrastructure is automated. However,
+since this is still a process with several different components that need to be
+synchronised and checked (such as blog posts announcing the release and documentation
+updates) and some manual interventions (such as digitally signing the
+installers for OSX and Windows) we want to make sure we get this process right
+first time!
+
+As always, feedback, bug reports and ideas would be most welcome!
+
