@@ -59,7 +59,7 @@ The source code is very simple and takes only minutes to type in. The detector
 works by checking the strength of radio signals. The stronger the signal of a
 received message the closer you are (and the higher the number displayed and
 the bleeps from the speaker). The transmitter micro:bits constantly send out
-signals at the lowest possible power so the their signal is only detected when
+signals at the lowest possible power so the signal is only detected when
 you're stood close by (I'd say around 3 to 4 meters). This is beautifully
 simple and ingenious and could form the basis for all sorts of interesting
 classroom activities and learning opportunities. How might you improve the
