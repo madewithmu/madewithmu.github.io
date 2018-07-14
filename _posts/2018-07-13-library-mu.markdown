@@ -88,7 +88,7 @@ while True:
 
 {% highlight python %}
 # Code for the "transmitter" microbits.
-from microbit imort *
+from microbit import *
 import radio
 id = "10"
 display.show(id)
