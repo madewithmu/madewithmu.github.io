@@ -3,7 +3,7 @@ layout: post
 title:  Mu Release Candidate
 date:   2018-07-16 18:25:00 +0100
 image:  /assets/hello_18n.png
-categories: mu users 
+categories: mu releases 
 ---
 
 The [release candidate for Mu 1.0.0](https://codewith.mu/en/download) is out!
