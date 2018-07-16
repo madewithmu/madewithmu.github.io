@@ -10,7 +10,8 @@ The [release candidate for Mu 1.0.0](https://codewith.mu/en/download) is out!
 This is the last step before the
 final release of Mu 1.0. Apart from a few minor bug fixes, the biggest change
 from beta 17 is the inclusion of various translations for the user interface.
-Full details can be found in the [change log](https://mu.readthedocs.io/en/latest/changes.html#rc-1).
+Full details can be found in the
+[change log](https://mu.readthedocs.io/en/latest/changes.html#rc-1).
 
 <img src="/assets/hello_i18n.png"/>
 
