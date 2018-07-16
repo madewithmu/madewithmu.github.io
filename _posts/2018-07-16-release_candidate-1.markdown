@@ -2,7 +2,7 @@
 layout: post
 title:  Mu Release Candidate
 date:   2018-07-16 18:25:00 +0100
-image:  /assets/hello_18n.png
+image:  /assets/hello_i18n.png
 categories: mu releases 
 ---
 
