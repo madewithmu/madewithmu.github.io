@@ -24,7 +24,7 @@ translations:
 * Portuguese, by [Tiago Montes](https://twitter.com/setnomt).
 
 I would love to include **more** translations in the final release, especially
-if they're one of the following:
+if they're one of the following languages:
 
 * Arabic
 * German
