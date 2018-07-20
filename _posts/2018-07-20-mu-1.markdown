@@ -1,0 +1,49 @@
+---
+layout: post
+title:  Mu 1.0.0! 
+date:   2018-07-20 15:00:00 +0100
+image:  /assets/shipit.jpg
+categories: mu releases 
+---
+
+We're pleased to announce the release of
+[Mu 1.0.0](https://codewith.mu/en/download), a Python code editor for beginner
+programmers!
+There have been only minor changes since the release candidate, full details
+of which can be found in the
+[changelog](https://mu.readthedocs.io/en/latest/changes.html#id1). As always,
+feedback and bug reports are most welcome. We've also completed and updated
+the [tutorials](https://codewith.mu/en/tutorials/) on the website.
+
+<img src="/assets/shipit.jpg"/>
+
+Many people have been involved in getting Mu to 1.0, and, if you use Mu, it
+would be a wonderful gesture if you could thank them via social media. Details
+of who to thank can be [found here](https://codewith.mu/en/thanks).
+
+Some interesting facts and figures about Mu:
+
+* [34 people have contributed code](https://github.com/mu-editor/mu/graphs/contributors).
+* There are currently only 3907 lines of Python code in Mu.
+* We have 100% unit test coverage.
+* Our code quality rating on [LGTM is A+](https://lgtm.com/projects/g/mu-editor/mu/context:python).
+* There have been 1115 commits since the project was
+  [started on 7th December 2015](https://github.com/mu-editor/mu/commit/98f4ea0ba1e5fe44a6378bece7fa92db0a50354f).
+* We've closed 341 issues.
+* We have [extensive developer documentation](https://mu.readthedocs.io/en/latest/).
+* Our [online chat](https://gitter.im/mu-editor/general) is growing.
+
+Finally, earlier this week, we had our first ever Mu-moot in the MUseum Tavern
+in London. Not everyone could make it, but the photo below is of most of the
+core contributors:
+
+<img src="/assets/mumoot.jpg"/>
+
+(Al Broomhead [front-left], Martin O'Hanlon, Zander Brown, Dan Pope, Steve
+Stagg, Carlos Pereira Atencio, Tim Golden and Nicholas Tollervey
+[front-right].)
+
+Everyone went away with an exclusive Mu t-shirt, the custom designs for which
+I'll post on social media.
+
+But before doing anything else, I'm going on holiday for a week. :-)
