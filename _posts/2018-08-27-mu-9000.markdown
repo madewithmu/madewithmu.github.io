@@ -1,0 +1,33 @@
+---
+layout: post
+title:  Mu 9000 
+date:   2018-07-30 17:45:00 +0100
+image:  /assets/hal.gif
+categories: mu users 
+---
+
+Ever wanted a pathalogically conflicted artifical intelligence for your own
+home? Why, of course you do! [Adafruit's CRICKIT board](https://learn.adafruit.com/hal-9000-replica/updating-with-crickit)
+has you covered (along with instructions for how to program it via Mu).
+
+<img src="/assets/hal.gif"/>
+
+The [Crickit](https://www.adafruit.com/product/3093) (**C**reative **R**obotics
+and **I**nteractive **C**onstruction **Kit**) is a an add-on for the
+[Circuit Playground Express](https://www.adafruit.com/product/3333) board. 
+Cricket aims to make it easy to make *friendly* robots and thus make friends
+with robots (now there's a sentiment we can all get behind). Essentially,
+Crickit complements and amplifies the CPX board by making it extraordinarily
+easy to interact with robotic "bits and bobs".
+
+What I love about this project is how simple it is to make and program. Once
+complete, just press the glowing red button to hear audio clips of HAL. The
+[source code](https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/master/HAL-9000/code.py)
+is less than 50 lines of Python and, perhaps most importantly, you have a
+chance to replace the recordings so *your* HAL is no longer an uncooperative
+controller of on-board systems, but perhaps a friendly computer in the spirit
+of Cricket. What's more, this project is relatively easy to modify to other
+concepts such as responsive cuddly toys or the world's most friendly door bell
+(remember those doors from The Hitchhiker's Guide to the Galaxy?).
+
+Happy hacking!
