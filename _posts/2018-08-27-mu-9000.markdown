@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Mu 9000 
-date:   2018-07-30 17:45:00 +0100
+date:   2018-08-27 17:45:00 +0100
 image:  /assets/hal.gif
 categories: mu users 
 ---

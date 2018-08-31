@@ -1,0 +1,32 @@
+---
+layout: post
+title:  Making Mu
+date:   2018-08-31 12:00:00 +0100
+image:  /assets/making_mu.png
+categories: mu users 
+---
+
+What does software development look like? Here's a short video / visualisation
+of the creation of Mu as told via the interactions, interventions and changes
+by developers to Mu's own source code
+[hosted on GitHub](https://github.com/mu-editor/mu).
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IUxYn0aNJVk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div><br/>
+
+What exactly are you looking at?
+
+* The faces represent the developers.
+* The multi-coloured blobs are the source code files that make up Mu.
+* The lines between the source code blobs show how the files are organised
+  together into directories.
+* As time passes, developers can be seen to change, add and delete files as
+  the project matures.
+
+I used [the `gource` tool](http://gource.io/) turn the commit history of Mu's
+development on GitHub into a video. I added [some Creative Commons licensed music](http://freemusicarchive.org/music/Dexter_Britain/Creative_Commons_Volume_2/Wonderland_Instrumental)
+and the results look and sound quite effective. What I really like is how the
+video reflects the wide variety of people and types of contributions made to
+the source code for Mu. Together, we're continuing to build the best editor
+we possibly can for beginner programmers and those who support them.
