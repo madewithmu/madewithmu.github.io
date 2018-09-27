@@ -2,7 +2,7 @@
 
 A simple blog for celebrating projects made with the code editor Mu.
 
-If you'd like to contribute an article you can do son in two ways:
+If you'd like to contribute an article you can do so in two ways:
 
 * **I'm not very technical**: we'd love to hear what you have to say! Please
   use the website's [submission form](https://madewith.mu/submit/). It should

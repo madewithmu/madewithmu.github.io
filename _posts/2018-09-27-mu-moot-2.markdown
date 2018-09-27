@@ -1,0 +1,44 @@
+---
+layout: post
+title:  Announcing Mu-moot 2.0
+date:   2018-09-27 16:50:00 +0100
+image:  /assets/debugger.png
+categories: mu moot 
+---
+
+[Sign up for free](https://www.eventbrite.com/e/mu-moot-20-tickets-50730465187)
+for the second ever Mu-moot! Thursday October 18th at 6pm in the offices
+of [Kano](https://kano.me) at [3 Finsbury Ave, London, EC2M 2PA](https://goo.gl/maps/wvix9nMGfDK2).
+It's a friendly and supportive meeting for learners, teachers and software
+developers interested in computing, mentoring, technology, pedagogy,
+programming and education. While Mu provides a focus for our meetings we are
+not limited to Mu related activities, discussions or presentations. Rather,
+Mu-moot is a place to encounter new ideas, share knowledge and meet a diverse
+group of like-minded people.
+
+What will we be doing?
+
+* We'll start with a welcome of pizza and refreshments from our wonderful hosts
+  at Kano.
+* Things will kick of properly at 6:30pm with a presentation on the short,
+  medium and long term future plans for Mu. This will be followed by a short
+  question and answer session.
+* Next comes 15 minutes for lightning talks. If you'll be there and have
+  something to share, this is where and when you tell us!
+* We end with a practical workshop called, "Debugging With Mu - What is
+  debugging? Why do I need it? How do I do it?".
+
+<br/>
+<img src="/assets/debugger.gif"/>
+
+At the end, around 8pm-ish, we'll find a local pub and continue our discussions
+in a more relaxed atmosphere.
+
+Future Mu-moots look to be even more interesting. [Dan Pope](https://twitter.com/lordmauve), one of the
+originators of Mu, will be presenting and running a workshop about
+[PyGameZero](https://pygame-zero.readthedocs.io/en/stable/) at the November moot. [Tim Golden](https://twitter.com/tjguk), one of Mu's most prolific
+contributors, will hopefully present and run a workshop about [NetworkZero](https://networkzero.readthedocs.io/en/latest/)
+at the December-moot.
+
+If you have an idea for contributing to a future Mu-moot, please
+<a href="mailto:ntoll@ntoll.org">get in touch</a>.
