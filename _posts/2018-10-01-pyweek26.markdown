@@ -1,0 +1,44 @@
+---
+layout: post
+title:  PyWeek - Make a Game with Mu
+date:   2018-10-01 19:00:00 +0100
+image:  /assets/pyweek.jpg
+categories: mu releases
+---
+
+It'll soon be [PyWeek](https://pyweek.org/)! Why not use Mu for a week of
+Pythonic game making fun? Your prize will be
+[fun of taking part](https://pyweek.org/26/) and the respect of your peers. 
+
+<img src="/assets/pyweek.jpg"/>
+
+I wrote [my first game](/mu/pygame/pygamezero/2018/06/22/paperchase.html) as
+an entry for the last PyWeek, and came a
+[respectable 8th out of 23](https://pyweek.org/25/ratings/). I was able
+to use Mu's [PyGameZero mode](https://codewith.mu/en/tutorials/1.0/pgzero) to
+quickly create something goofy yet fun. My starting point was the easy to
+follow [PyGameZero tutorial](https://pygame-zero.readthedocs.io/en/stable/introduction.html).
+I like to think it amateur, rather than amateurish:
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z_wGpJubVwI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div><br/>
+
+It was a huge amount of fun, the community involved is friendly and supportive
+and I'd like to encourage as many people to enter for the upcoming competition.
+
+What's involved? 
+
+The PyWeek challenge:
+
+1. Invites entrants to write a game in one week from scratch either as an individual or in a team,
+2. Is intended to be challenging and fun,
+3. Will hopefully increase the public body of game tools, code and expertise,
+4. Will let a lot of people actually finish a game, and
+5. May inspire new projects (with ready made teams!)
+
+<br/>
+Entries must be developed in Python during the challenge, and must incorporate
+some theme decided at the start of the challenge.
+
+[What are you waiting for..?](https://pyweek.org/)
