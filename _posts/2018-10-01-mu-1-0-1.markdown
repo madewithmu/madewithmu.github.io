@@ -1,0 +1,29 @@
+---
+layout: post
+title:  Announcing Mu version 1.0.1
+date:   2018-10-01 12:00:00 +0100
+image:  /assets/mu_splash.png
+categories: mu moot 
+---
+
+The [latest version of Mu](https://codewith.mu/en/download) is here! Version
+[1.0.1](https://mu.readthedocs.io/en/latest/changes.html#id1) is a bug-fix
+release and all but one of the thirty or more contributions, changes and fixes
+were made by members of our community. I'm especially proud that this update
+means Mu supports the following translations: German, Spanish, French,
+Japanese, Polish, Portuguese (including Brasil), Swedish, Vietnamese and
+Chinese. Apparently there are Greek and Turkish translations on the way.
+
+<img src="/assets/mu_splash.png"/>
+
+We expect the next version of Mu with new features (Python 3.7, some new modes,
+improvements to configuration, more bug fixes and better translations) to
+arrive some-time towards the end of this year.
+
+If you spot any bugs, please don't [hesitate to let us know](https://codewith.mu/en/howto/bugs).
+
+Once again, many thanks to all the people in our community who have made such
+important and helpful contributions: René Raab, Limor Fried, GitHub user
+@doanminhdang, Martin Dybdal, René Dudfield, Marco A L Barbosa, Justin Riley,
+Filip Korling, Nick Morrott, John Guan, Filip Kłębczyk, Tim McCurrach,
+Damien George, Zander Brown, Carlos Pereira Atencio and Tim Golden.
