@@ -3,7 +3,7 @@ layout: post
 title:  Announcing Mu version 1.0.1
 date:   2018-10-01 12:00:00 +0100
 image:  /assets/mu_splash.png
-categories: mu moot 
+categories: mu releases
 ---
 
 The [latest version of Mu](https://codewith.mu/en/download) is here! Version
