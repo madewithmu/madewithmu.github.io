@@ -7,7 +7,7 @@ categories: mu games
 ---
 
 It'll soon be [PyWeek](https://pyweek.org/)! Why not use Mu for a week of
-Pythonic game making fun? Your prize will be
+Pythonic game making fun? Your prize will be the
 [fun of taking part](https://pyweek.org/26/) and the respect of your peers. 
 
 <img src="/assets/pyweek.jpg"/>
