@@ -26,6 +26,6 @@ Yes! You get the full Mu experience. I've been using it in class for about a wee
 
 ## How can I use Portable Mu?
 
-I've created a Github Repo at __ that contains 2 zip files, one for x86 Windows Machines and another for x64 Windows Machines. It's just a case of downloading the zip and extracting it onto the pendrive. Once you've done that, double click the Launch Mu file and a window will pop up and you'll see Mu load, it may take some time depending on how quick your computer is. 
+I've uploaded the zip files for people to use, one is for x86 Windows Machines which can be downloaded [here](https://drive.google.com/file/d/1USt4uCrWCXdyJh8byVen1ZkChqnINh7K/view?usp=sharing) and another for x64 Windows Machines which can be downloaded [here](https://drive.google.com/file/d/1as_sP0_c1kSimUqDWVkG3yHJFjHXoUHM/view?usp=sharing). It's just a case of downloading the zip and extracting it onto the pendrive. Once you've done that, double click the Launch Mu file and a window will pop up and you'll see Mu load, it may take some time depending on how quick your computer is. 
 
 I hope you find mu-portable useful just like I have, it's  not only handy for schools but even more so for having a portable version of Mu to take with you anywhere you go, whether that be when going to a friends house or using a library computer, so why not download it and share the power of Mu with even more people who maybe can't install things on their computer!
