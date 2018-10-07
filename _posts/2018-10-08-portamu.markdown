@@ -1,0 +1,80 @@
+---
+layout: post
+title:  PortaMu - Making Mu Portable
+date:   2018-10-08 09:00:00 +0100
+image:  /assets/portamu.png
+categories: mu portamu
+---
+
+_(In this guest post, 14 year old Mu user and wunderkind Josh Lowe explains how
+to get Mu working on locked-down school computers running Windows. School
+network admins are going to go nuts over this!)_
+
+I've been using Mu since it was just an editor for MicroPython on the BBC
+micro:bit. I find myself using it nearly every day because it removes all the
+features I don't need and keeps the ones I do need, in a simple layout. So when
+I started my GCSE Computer Science course, with the first topic being Python
+Programming, I instantly wanted to use Mu in class.
+
+Simple, right?
+
+Unfortunately it's not: if you've ever worked in a school, you'll know about
+the hassle of getting stuff installed on school computers, it's not easy at
+all. Even if it's an educational program like Mu (that's going to benefit
+students) there are tons of hurdles to jump over to get in touch with the
+people who do that sort of thing. This looked like the end of the line for me
+using Mu in class.
+
+I needed to come up with a solution.
+
+<img src="/assets/portamu.png" style="border:none;"/>
+
+So, with a bit of thinking about how I could tackle the issue, the solution
+came to me. Why not install Mu on a pendrive?
+
+Unfortnately the computers at school are locked down so there is no command
+prompt, you can't use `pip`, run `exe` files or use installers that require
+admin privileges. School rules banned me from downloading Mu onto a pendrive.
+So I had to find another way to install Mu on my pendrive.
+
+Easy, I did it at home! ;-)
+
+I'd like to introduce PortaMu, my solution to running Mu anywhere. I've also
+put Mu into a zip file so that you only need download and extract it
+without having to go through all the steps I explain below.
+
+### How did I get Mu to install and run on the pendrive?
+
+Firstly, I had to install Mu on the pendrive. This is a very simple thing to
+do: when you run the Mu installer, select the installation path as your
+pendrive. 
+
+Once installed I faced an issue when I got to school to test it out: when
+Windows detects a drive it assigns a letter (e.g. `F:`) and this can change
+when you plug the pendrive into another computer. I had to keep changing the
+shortcut properties each time, and it became a pain. So instead of launching
+Mu from a shortcut, I created a simple BATCH file that ran everything needed
+to launch Mu and this works perfectly.
+
+### Really? Does Mu actually work? Is that it?
+
+Yes! You get the full Mu experience. I've been using it in class for about a
+week and it's working really well. It's grabbed lots of people's attention who
+have been using IDLE in class and they're now starting to use Mu instead!
+
+### How can I get my hands on PortaMu?
+
+I've uploaded the zip files for people to use, and they're available in the
+PortaMu section of [Mu's download page](https://codewith.mu/en/download).
+
+It's just a case of downloading the zip and extracting it onto the pendrive.
+Once you've done that, double click the Launch Mu file and a window will pop up
+and you'll see Mu load, it may take some time depending on how quick your
+computer is. 
+
+I hope you find PortaMu useful, just like I have. It's not only handy for
+schools but PortaMu can go anywhere with you, whether that be a friend's house
+or a library computer.
+
+Why not download it and share the power of Mu with even more people who maybe
+can't install things on their computer!
