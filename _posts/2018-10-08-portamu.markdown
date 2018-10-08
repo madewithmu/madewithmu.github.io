@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  PortaMu - Making Mu Portable
-date:   2018-10-08 09:00:00 +0100
+date:   2018-10-07 09:30:00 +0100
 image:  /assets/portamu.png
 categories: mu portamu
 ---
@@ -32,7 +32,7 @@ I needed to come up with a solution.
 So, with a bit of thinking about how I could tackle the issue, the solution
 came to me. Why not install Mu on a pendrive?
 
-Unfortnately the computers at school are locked down so there is no command
+Unfortunately the computers at school are locked down so there is no command
 prompt, you can't use `pip`, run `exe` files or use installers that require
 admin privileges. School rules banned me from downloading Mu onto a pendrive.
 So I had to find another way to install Mu on my pendrive.
