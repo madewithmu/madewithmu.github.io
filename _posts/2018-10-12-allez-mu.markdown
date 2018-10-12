@@ -1,0 +1,61 @@
+---
+layout: post
+title:  Allez Mu!
+date:   2018-10-12 09:30:00 +0100
+image:  /assets/girlscancode.jpg
+categories: mu users 
+---
+
+Check out [Girls can Code!](https://gcc.prologin.org/), programming
+workshops for girls based in France. Guess what? They use Mu!
+
+<img src="/assets/allezmu.jpg"/>
+
+I was contacted by [Antoine Pietri](https://twitter.com/seirl_), one of the
+organisers of the event, who tells me,
+
+> I went to Nicholas' presentation of Micro:bits at PyParis 2017, and it struck
+> me as an excellent learning tool for the [Girls Can
+> Code!](https://gcc.prologin.org/) summer camp we organize at
+> [Prologin](https://prologin.org/).
+>
+> We decided to use Micro:bits with MicroPython for this edition, in the Paris
+> and Lyon camps, so I naturally thought of using the Mu editor and its Micro:bit
+> mode for that. I followed the development of Mu in the last couple of years
+> and saw it slowly grow into a fully-fledged general purpose editor, so I
+> suggested that we use it for the whole camp.
+>
+> We were thrilled at how easy and useful it was as a learning tool for all our
+> activities, ranging from Hello World to writing games with PyGame. We will
+> definitely use it in the future, probably even when teaching to more
+> experimented students.
+
+This is great to hear. Back in 2017 I was invited to give a
+[keynote address](https://www.youtube.com/watch?v=iH6JRfP1q78) at
+[PyParis](http://pyparis.org/). It proved to be a fruitful trip: not only
+was the conference a wonderful experience and I made lots of new friends, but I
+was able to meet French computing educators like Antoine.
+
+This proved to be a key moment in the development of Mu as I was able to gather
+feedback from users for whom English is an additional language. Our discussions
+led to the following conclusion about non-English speaking learners: the
+biggest barrier to learning Python isn't that its keywords are in English, but
+that the tools and resources for programming in Python are.
+
+Put simply, "je voudrais Mu en français".
+
+Upon my return to the UK, I immediately investigated Python's robust
+capabilities in internationalisation (also known as "i18n") and this
+has led to Mu being available in ten human languages (including French) with
+[more on the way](https://mu.readthedocs.io/en/latest/translations.html).
+
+I hope you'll be hearing more about Mu's use in a French speaking context
+very soon. I also welcome non-English contributions to this blog too. Mu is
+definitely cosmopolitan in outlook and we want to encourage and help beginner
+programmers no matter their native tongue. If you have a story to tell about
+how you use Mu in your own region and language, please don't hesitate to get in
+touch.
+
+Allez Mu!
+
+<img src="/assets/girlscancode.jpg"/>
