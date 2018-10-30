@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  Brian is in the kitchen
-date:   2018-10-19 21:30:00 +0100
-image:  /assets/logo_mixteen_baseline.jpg
+title:  Brian is in the Kitchen
+date:   2018-10-30 09:00:00 +0100
+image:  /assets/logo_mixteen_baseline.png
 categories: mu users 
 ---
+
+*This second guest post, from [Thierry Chantier](https://twitter.com/titimoby),
+describes how the French Python
+community is helping young programmers with Mu. I'm especially pleased that
+he's submitted his blog in French. We love to celebrate the efforts of Mu users
+all over the world!*
 
 It's a common cliché: french are not good english speakers.
 But hey, micro:bit, Monthy Python ... and Mu comes from the UK, we have to deal with it. (Oh, I forgot the Sex Pistols)
@@ -43,4 +49,4 @@ En attendant, nous continuerons d'aider à traduire Mu (ou les ressources de la 
 
 Et comme le disent les [Girls Can Code!](https://gcc.prologin.org/) : 
 
-# ALLEZ MU !
+## "ALLEZ MU !"
