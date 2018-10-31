@@ -1,0 +1,66 @@
+---
+layout: post
+title:  Nǐ hǎo Mu! 你好穆! 
+date:   2018-10-31 11:00:00 +0100
+image:  /assets/china1.jpg
+categories: mu users 
+---
+
+Thanks to the efforts of volunteer teachers, young Chinese students are using
+Mu to learn Python.
+
+<img src="/assets/china1.jpg" />
+
+My Chinese friend explains,
+
+> "I am a programmer in Hefei China, my colleagues and I give Python classes
+> to more than 20 children every Tuesday afternoon. (A total of 14 weeks.)
+> 
+> This is a course of interest for the students who is interesting with
+> programming, it's free and we are volunteers. We have a plan to teach Python,
+> from the base to the high, not that high."
+
+<img src="/assets/china2.jpg" />
+
+He goes on to explain how learning to code is making a big impression of some
+of his students and their families.
+
+> "The little boy in the [following] photo inspired me, he is very clever and
+> he can answer almost every problem in class.
+>
+> This boy father is so seriously to this class, he find a app which can coding
+> in iphone, and he learn it himself to teach his son after school.
+>
+> My first baby is coming soon, I think may be I should learn from him, you
+> know he has no experience in programming and in his daily job there is no
+> computer in front of him. Father's love is great and will drive us to do many
+> things. One father is more than a hundred schoolmasters."
+
+<img src="/assets/china3.jpg" />
+
+I have to admit that I was deeply moved by this explanation. I was also amazed
+to see that the teachers and students use a sort of chat app for sharing and
+marking homework.
+
+<img src="/assets/china4.png" />
+
+It makes me extraordinarily happy to know that our collective efforts in
+translating Mu for learners who don't have English as a first language are
+paying off. I'd like to applaud the efforts of the volunteer teachers in China
+who are helping to nurture the next generation of Python programmers. Finally,
+I would like to wish their students (and parents!) the very best of luck when
+learning to use Python. You are learning a skill that will help you flourish in
+our modern technological world. Please keep up your efforts and, if you have
+time, keep sharing what you have been doing. Perhaps, in the future, you will
+speak at [PyCon China](http://cn.pycon.org).
+
+I'm struck by how similar programming is to another passion of mine: music.
+Both are cross cultural and international endeavours. By sharing our code,
+learning from each other and telling stories of programming we bring our world
+closer together.
+
+My Chinese friend ends by saying,
+
+> "Thank you for your work, Mu is so cool, Mu is best for us."
+
+I'm so pleased you think so! Thank you!
