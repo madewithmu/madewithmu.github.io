@@ -1,0 +1,89 @@
+---
+layout: post
+title:  "Contributor Focus: Zander Brown"
+date:   2018-11-26 12:00:00 +0100
+image:  /assets/Stig.png
+categories: mu users 
+---
+
+Mu is not a solo effort. Many folks have [contributed to Mu](https://github.com/mu-editor/mu/graphs/contributors),
+and I will be eternally grateful for their work. With the spirit of
+recognising the voluntary contributions of others in mind, I'm going to write
+about some of our most prodigious programmers. First up is [Zander Brown](https://github.com/ZanderBrown).
+
+<img src="/assets/Stig.png" style="border: 0px;"/>
+
+Zander, like [Top Gear's the Stig](https://en.wikipedia.org/wiki/The_Stig), is
+a bit of a mystery.
+
+Until recently, nobody had ever met him in real life, and all interactions with
+Zander were via copious GitHub comments, pull requests and bug fixes.
+
+Some said he was an alien being from another dimension, others claimed him to
+be a rogue artificial intellegince running rampant in random Git repositories,
+yet more people whispered in hushed tones that he was merely a pseudonym for
+Bill Gates, coming out of retirement to contribute to free software projects.
+
+All I can say is that I'm thankful for his considerable contributions to Mu's
+code base, eagle-eyed code reviews and seemingly limitless Pythonic knowledge.
+
+Actually, when I met Zander for the first time in July, it turned out he's a
+17 year-old studying for his A-levels (the exams teenagers sit in the UK to
+help them to get into university). He's doing A-levels in Maths, Physics and
+Computer Science. He's third from the left in the picture below:
+
+<img src="/assets/mumoot.jpg"/>
+
+I want to bring your attention to how wonderful this is ~ we have several
+related things going on:
+
+* We have a courteous, knowledgable and extraordinarily competent contributor
+  to Mu.
+* Zander's participation is evidence that the Mu project is welcoming, safe and
+  supportive enough to encourage the participation of teenage coders.
+* Zander, a student who uses Mu, is helping to develop Mu. I would very much
+  like to foster this sense of ownership in Mu's users, be they students,
+  teachers or professional software developers.
+
+I recently asked Zander how he got into Mu. His reply was interesting in that
+he typed "micro:bit Python" into a search engine after his school had some of
+the early versions of the device delivered to teachers.
+
+> The head of department got the blue one, the other CS teacher had the green,
+> leaving the yellow spare and the rest, as they say, is history...
+
+He started coding with [MSWLogo](https://en.wikipedia.org/wiki/MSWLogo) but
+has, more recently discovered Python and started making contributions to
+various open source projects:
+
+> It's nice to work on things that help others be that the developer (fix
+> this, add that) or the users (CS teachers!)
+>
+> Recently I've been contributing the GNOME which has the 'coolness' that you
+> are in country A working with person in country B to make something that'll
+> be used in A, B, C & D but also being a tad 'meta' when you're fixing a bug
+> older than you.
+
+Right now, I feel *very very old*. :-)
+
+How does he find working on Mu?
+
+>  Great fun, first & only time i've met in person with others working on a
+> project and the T-shirt isn't bad either :-)
+>
+> Been nice to play on a range of things within the same project from fighting
+> QSS to walking the python syntax tree whilst knowing people are using it in
+> the real world (TAA just switched form GCSE Java to Python so Mu is now used
+> with the lower years)
+
+(When we released Mu 1.0 I made sure all of the major contributors and friends
+of Mu got t-shirts to celebrate. Thanks to my hugely talented friend
+[Steve Hawkes](https://twitter.com/hawkz), Zander got a t-shirt with the "Stig"
+avatar shown at the top of this post.)
+
+Zander, thank you for your continued contributions and best of luck with your
+studies (he wants to go on to study Computer Science at university). I have no
+doubt that wherever you end up studying will soon learn how fortunate they are
+to have such a talented student as you.
+
+:-)
