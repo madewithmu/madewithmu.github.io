@@ -53,7 +53,7 @@ merge your contribution, it's likely that it's because it either doesn't quite
 fit with our vision for Mu, or the capabilities it provides are met in some
 other preferred way. We will, of course, explain our decisions via discussion
 on the relevant pull requests. Nevertheless, please don't be disheartened if
-we decline your contribution -- it's certainly not a critique of your efforts
+we decline your contribution -- it's certainly not a criticism of your efforts
 (which we value hugely).
 
 This is a LOT of work, and we ask you to be patient as we volunteer our time to
