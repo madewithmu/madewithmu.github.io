@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "The Road to Mu 1.1"
+date:   2018-12-03 13:30:00 +0100
+image:  /assets/road_sign.png
+categories: mu users 
+---
+
+The next version of Mu will be 1.1. This post describes how we're going to get
+there and what to expect on the way.
+
+<img src="/assets/road_sign.png" style="border: 0px;"/>
+
+The first thing you should know is that 1.1 will have new features including
+new modes, new capabilities and new ways to configure Mu. Some of the new modes
+have been kindly written by new contributors. The new capabilities and ways to
+configure Mu are based upon valuable feedback from folks in the community.
+Thank you to everyone who has contributed so far.
+
+The second thing you should know is that 1.1 will have many bug fixes. Since Mu
+1.0 was released a huge number of people have started to use it and,
+inevitably, found and reported bugs. Thank you for all the valuable feedback,
+please keep it coming! We hope to address as many of the problems as possible.
+
+The final thing you should know about is the release schedule for Mu 1.1. Very
+soon, a version 1.1.0.alpha.1 will be released: this will contain some of the
+new features and updates and will _definitely_ contain bugs. It will be
+followed with a number of further alpha releases as new features are created
+and/or contributed to this version of Mu. When we're happy we have all the
+features we want, we'll release a version 1.1.0.beta.1. The focus of the
+various beta releases will be to test and fix any bugs we may encounter.
+However, the beta releases will be "feature complete" and represent a good
+preview of what version 1.1 will look like. Once there are no more known bugs,
+or those bugs that remain are "edge cases" that can be documented, we'll
+release the final 1.1.0 version which will be available for official download.
+The old 1.0.* version of Mu will still be on the website, but no longer
+officially supported.
+
+Such work will touch all aspects of the Mu project: the editor, the associated
+projects for generating resources for the editor, the documentation and the
+website too. It will also mean the translations will need to be checked and
+updated to deal with any UI changes.
+
+Some of you may be contributors waiting for us to merge your work or respond to
+your suggestions. We promise we will always be respectful and supportive of
+your efforts. However, we may not accept all contributions. This reminds me of
+my work as a musician: when auditioning players for a band or orchestra you
+meet a huge number of talented musicians, but there may only be the need for
+one flute player. Any number of the musicians who auditioned could have easily
+played the flute part, but the person who was offered the job was the one who
+it was felt fitted in with the rest of the orchestra. Likewise, if we don't
+merge your contribution, it's likely that it's because it either doesn't quite
+fit with our vision for Mu, or the capabilities it provides are met in some
+other preferred way. We will, of course, explain our decisions via discussion
+on the relevant pull requests. Nevertheless, please don't be disheartened if
+we decline your contribution -- it's certainly not a critique of your efforts
+(which we value hugely).
+
+This is a LOT of work, and we ask you to be patient as we volunteer our time to
+make the next version of Mu. However, we're a free software project developed
+in the open and so we would love to hear your input as work progresses.
+Wouldn't it be cool to be able to say, "you see that feature? I suggested
+that".
+
+Together, we can collaborate to make Mu a better editor for beginner
+programmers and those who support them.
