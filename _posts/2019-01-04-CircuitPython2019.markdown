@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "#CircuitPython2019" 
-date:   2019-01-04 12:30:00 +0100
+date:   2019-01-04 12:45:00 +0100
 image:  /assets/blinka.png
 categories: mu users 
 ---
