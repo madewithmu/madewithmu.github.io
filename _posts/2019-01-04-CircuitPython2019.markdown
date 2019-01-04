@@ -37,15 +37,12 @@ beyond the complementary educational aims of both projects.
 There are two items on my list for CircuitPython in 2019. The first is
 easy, the second is hard:
 
-1. It would be really helpful if there were a project homepage at an easy to
-  type domain like "circuitpython.org" to which we can point folks and from
-  which visitors can easily find the chat, tutorials, list of supported boards,
-  source code, technical docs and other good stuff. All these amazing resources
-  exist online but I never seem to find a one-stop
-  new-to-CircuitPython-friendly landing page to link such resources all
-  together.
-2. Continue to inspire a community of learners (no matter their level of
-  experience).
+1. It would be really helpful if there were a friendly CircuitPython landing
+  page to which we can point folks and from which visitors can easily find the
+  chat, tutorials, list of supported boards, source code, technical docs and
+  other good stuff.
+2. Continue to inspire a community of learners (no matter how long we've been
+  programming, we're all still learners, right?).
 
 The second point needs more explanation.
 
@@ -68,16 +65,16 @@ make the digital world reflect their own desires and needs.
 
 Sadly, the tech world has a history of being open only to certain
 types of people (mainly people like me: white straight dudes with the privilege
-of money to buy equipment and time to attend to their education). It means the
-technology created only reflects the desires and needs of just these sorts of
+of money to buy equipment and time to attend to their education). It means 
+technology usually only reflects the desires and needs of just these sorts of
 people.
 
 We can do better than this skewed state of affairs.
 
-By fostering an open and inclusive community around an easy to learn and
-affordable project that helps folks learn about technology, Adafruit's
-CricuitPython is, in a very practical sense, the antidote to the exclusion of
-folks in tech.
+In a very practical sense Adafruit's CircuitPython is an antidote to the
+exclusion of folks in tech. They are fostering an open and inclusive community
+around an easy-to-learn and affordable project that helps folks learn about
+technology.
 
 Such community building is incredibly hard to pull off and sustain. So my wish
 is that Scott, Kattni, Dan, Phil, Limor and all the others working so hard in
