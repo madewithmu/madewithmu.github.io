@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Happy Mu Year 2019!" 
+date:   2019-01-15 13:00:00 +0100
+image:  /assets/fireworks.gif
+categories: mu users 
+---
+
+New year, new Mu! We're very happy to release the [next version of Mu](https://codewith.mu/en/download), version [1.0.2](https://mu.readthedocs.io/en/latest/changes.html#id1). Please update to this release.
+
+<img src="/assets/fireworks2.gif"/>
+
+This is a bug fix release with numerous contributions from our growing
+community of volunteer developers. Collectively, we've managed to fix and
+improve many of the things users have been telling us about. Please see the
+release notes (linked to above) for details of the fixes made.
+
+As always, if you spot any bugs, please [don't hesitate to let us know](https://codewith.mu/en/howto/bugs).
+
+Thanks especially to GitHub user @Linguini2004, Craig Steele, John Guan, Tiago
+Montes, Tim Golden, Carlos Pereira Atencio, GitHub user @wu6692776, Eberhard
+Fahle, Limor Fried, Tim McCurrach and Brent Rubell for their valuable
+contributions.
+
+Onwards and upwards! Next stop 1.1.
