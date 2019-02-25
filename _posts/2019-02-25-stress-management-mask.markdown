@@ -7,7 +7,7 @@ categories: mu users
 ---
 
 [Sean Tibor](https://twitter.com/smtibor), a teacher based at
-[Pine Crest School](https://www.pinecrest.edu/) in Boca Raton,
+[Pine Crest School](https://www.pinecrest.edu/) in Fort Lauderdale,
 Florida, has been in touch about a [cool project](https://github.com/seantibor/stressmanagementmask)
 created by one of his students called Dilnaam D.
 
