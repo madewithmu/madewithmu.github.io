@@ -6,7 +6,8 @@ image:  /assets/stress-buster.jpg
 categories: mu users 
 ---
 
-[Sean Tibor](https://twitter.com/smtibor), a teacher based in Boca Raton,
+[Sean Tibor](https://twitter.com/smtibor), a teacher based at
+[Pine Crest School](https://www.pinecrest.edu/) in Boca Raton,
 Florida, has been in touch about a [cool project](https://github.com/seantibor/stressmanagementmask)
 created by one of his students called Dilnaam D.
 
