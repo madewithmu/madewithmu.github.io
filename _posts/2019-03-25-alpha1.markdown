@@ -1,0 +1,129 @@
+---
+layout: post
+title:  "Mu 1.1.0-alpha.1 Released" 
+date:   2019-03-25 09:00:00 +0100
+image:  /assets/alpha.png
+categories: mu users 
+---
+
+We have just released the first "alpha" of the upcoming 1.1 version of Mu. To
+try it, follow the links on
+[Mu's download page](https://codewith.mu/en/download).
+Mu is a team effort, so many thanks to all the volunteers who have contributed
+in innumerable ways to make this happen.
+
+This is the first of several "alpha" releases for the next version of Mu. Over
+the coming weeks we intend to release newer versions based upon feedback from
+you, our users. Please don't hesitate to [get in touch](https://codewith.mu/en/howto/bugs)
+if you have comments, suggestions or have found a problem (bug). The more
+feedback we get, the better. While we carefully read all feedback, we can't
+always respond to nor address such feedback (remember, we're all volunteers).
+If you're interested in what we're up to, all our development work happens in
+the open
+[on GitHub](https://github.com/mu-editor/mu) and you can even [chat directly with us](https://codewith.mu/en/discuss)
+(we're friendly, so come say, "Hi").
+
+What exactly do we mean by "alpha"..?
+
+Essentially, "alpha" means we're adding new features, and there may be bugs.
+When we're happy with the new features we'll switch to "beta" releases, where
+we only polish and fix problems with the features created so
+far. When we feel the "beta" release is stable enough, well tested and checked
+by a large number of different sorts of user, then we'll release the "final"
+1.1 version which will replace the current version we recommend you download
+from the website. The current 1.0 version of Mu will no longer be supported and
+our advice will be for you to upgrade.
+
+So, what's new in this first "alpha" release?
+
+The first new feature is the ability to install third
+party Python packages. There are almost 200,000 community created packages on
+the [Python Package Index (PyPI ~ pronounced Pie-Pee-eye)](https://pypi.org/).
+
+<img src="/assets/third-party-arrr.gif"/>
+
+The example above shows us installing a silly Python module called
+[Arrr](https://arrr.readthedocs.io/en/latest/) which converts English into
+Pirate speak. First we open the admin dialogue, select the "Third Party
+Packages" tab and simply type into the text area the name of the package we
+want to install. Then Mu shows us its progress downloading and installing the
+new package (and any of its dependencies). Afterwards we can use the `arrr`
+module in both our code and from the REPL. Finally, if we open the "Third Party
+Packages" tab in the admin dialogue again, we can see Arrr listed as an
+installed package. To uninstall it, simply remove its entry in the text area
+and Mu does the rest. Once uninstalled `arrr` is no longer available to us.
+Importantly, **the packages installed by Mu are only available to Python run
+from Mu**. We do this because the universal feedback from school system
+administrators is that they want Mu to be **completely isolated** from anything
+else that may be installed on the computer.
+
+Next, we have a really useful feature for beginner programmers who want help
+writing tidy looking code. There is an amazing tool, called
+[Black](https://black.readthedocs.io/en/stable/), which analyses code and
+reformats it into readable code (it's called "Black" because you can have any
+type of reformatting, so long as it's Black's). The creator of Black is a
+talented developer called [Łukasz Langa](http://lukasz.langa.pl/) who has a son
+learning to code with, you guessed it, Mu. I recently had the great pleasure
+of catching up with Łukasz when he was in London and he suggested Black might
+be helpful for beginners. In the time it took me to catch my train home,
+Łukasz had created the code needed to make this work. Some testing with
+teachers and beginners confirmed how useful this feature would be.
+
+<img src="/assets/black.gif"/>
+
+In the example above we see some "messy" looking Python code. There's no gap
+between the `import` statement and the rest of the code, items in a list are
+single-quoted strings (which makes it hard to use apostrophes) and a second
+list is too wide for the editor. Once the new "Tidy" button is clicked, Black
+immediately reformats the code to correct these visual niggles. It's important
+to note that the code itself remains unchanged, it has merely been
+reformatted. Furthermore, if your code contains invalid Python then Black will
+signal this to Mu and the "Check" function will run to highlight the problems
+which should be fixed before running the "Tidy" function again.
+
+The final new feature is a completely new mode created by Danish computer
+scientist and teacher [Martin Dybdal](http://dybber.dk/). The new mode targets
+the small, network enabled boards made by
+[Espressif](https://www.espressif.com/): ESP8266 and ESP32. These boards are
+special because they connect to the Internet via WiFi, are very cheap, easily
+obtained and make great development boards for simple
+[Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
+projects. Happily
+[MicroPython](https://docs.micropython.org/en/latest/) runs on these boards
+making them ideal for educational use.
+
+<img src="/assets/esp8266_morse.gif"/>
+
+With the help of [Murilo Polese](http://murilopolese.com/) we were able to test
+the new mode and refine the capabilities to the following features:
+
+* A "Run" button which will use a serial connection to push the code in the
+  current tab onto the board to be run immediately.
+* A files button which works in exactly the same way as the micro:bit mode: 
+  drag Python files to or from the board. If one of the files is called
+  `main.py` then it will run automatically when the board starts.
+* A REPL to connect to MicroPython running on the attached board.
+* A Plotter, which turns tuples of numeric data read from the board via the
+  serial connection into pretty plots. This works in exactly the same way as
+  in the other modes which use the plotter.
+
+This release also includes quite a number of bug fixes and behind-the-scenes
+tidy ups. You can find out the full details in the [project CHANGELOG](https://github.com/mu-editor/mu/blob/master/CHANGES.rst).
+
+What's still to come..? The following is in the pipeline:
+
+* A new mode for simple web development with Python, HTML and CSS. Beginners
+  will be able to very quickly create and view simple dynamic websites (such
+  as a personal blog).
+* A REPL for PyGameZero mode, so you can interactively poke around with the
+  code of your game!
+* Some new admin settings which will allow you to configure how Mu looks and
+  behaves (especially important for dyslexic users for whom the most effective
+  colour scheme for reading code is a personal discovery).
+* A new mode for the [Calliope board](https://calliope.cc/en) (subject to
+  extensive testing). The Calliope is Germany's answer to the micro:bit, and it
+  runs MicroPython!
+
+As always, constructive critique, ideas and bug reports are most welcome.
+
+Watch this space!
