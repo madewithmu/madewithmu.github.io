@@ -59,7 +59,9 @@ and being a generous soul, Warren emailed me the steps yesterday.
 So, without further ado... here are Warren's notes for future reference. Thank
 you for all the hard work Warren..!
 
-These notes should work on any Debian/Ubuntu platform.
+These notes should work on any Debian/Ubuntu platform. If you have any
+questions please <a href="mailto:hellfire.xray@gmail.com">email Warren</a> (who
+gave me permission to add his email details to this blog post).
 
 Note: always `sudo make install` when `make install` is required.
 
