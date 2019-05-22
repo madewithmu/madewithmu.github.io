@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Kushal's Colourful Adafruit Adventures" 
+date:   2019-05-22 16:45:00 +0100
+image:  /assets/cool-kushal.jpg
+categories: mu users 
+---
+
+Friend of Mu, community hero, Tor maintainer, Python core developer and
+programmer extraordinaire Kushal Das,
+[has blogged](https://kushaldas.in/posts/game-of-guessing-colors-using-circuitpython.html)
+about the fun he's been having with Adafruit's
+[Circuit Playground Express](https://www.adafruit.com/product/3333)
+board,
+[CircuitPython](https://circuitpython.org/) and Mu.
+
+![Circuit Playground Express](/assets/cpx_py.jpg)
+
+A fortnight ago was [PyCon](https://us.pycon.org/), the world's largest
+gathering of Python developers in the world (around 3.5 thousand of us arrived
+in Cleveland for more than a week of Python related tutorials, presentations,
+keynotes, open spaces, code sprints and social events). Thanks to the
+enormous generosity of [Adafruit](https://www.adafruit.com/) and
+[DigiKey](https://www.digikey.com/) **every** attendee found a Circuit
+Playground Express in their swag bag!
+
+Thank you to everyone who helped make this happen!
+
+At the time I was sorely tempted to blog about this amazing gift, but decided
+to wait until I found evidence of any friend of mine actually using the board.
+I figured that if a friend had the unprompted motivation to blog or share their
+experience with the device, then it would be evidence that it was a worthy
+sponsorship. After all, for every blogger there will be a large number of folks
+who simply don't share what they've been up to.
+
+![Cool Kushal](/assets/cool-kushal.jpg)
+
+Upon his return to India, Kushal (pictured above, sporting a very "Morpheus"
+look) had lots of fun and, happily, his experiments
+resulted in a positive educational outcome: now his young daughter (Py) wants
+to have a go too..!
+
+Kushal explains his experiment like this:
+
+> The goal is to guess a color for the next NeoPixel on the board and then press Button A to see if you guessed right or not. Py and I are continuously playing this for the last weeks.
+>
+> The idea of CircuitPython, where we can connect the device to a computer and start editing code and see the changes live, is super fantastic and straightforward. It takes almost no time to start working on these, the documentation is also unambiguous and with many examples.
+
+You can see the his code for the game in the screenshot below:
+
+![Kushal's code](/assets/mu_cpx_guess_color.png)
+
+I hope you agree, such sponsorship and the ease of CircuitPython is (literally)
+lighting up the lives a folks all over the world and inspiring the coders of
+the future.
