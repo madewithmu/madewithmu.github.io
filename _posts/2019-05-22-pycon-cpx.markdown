@@ -6,7 +6,7 @@ image:  /assets/cool-kushal.jpg
 categories: mu users 
 ---
 
-Friend of Mu, community hero, Tor maintainer, Python core developer and
+Friend of Mu, community hero, Tor core team member, Python core developer and
 programmer extraordinaire Kushal Das,
 [has blogged](https://kushaldas.in/posts/game-of-guessing-colors-using-circuitpython.html)
 about the fun he's been having with Adafruit's
