@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "Contributor Focus: Tiago Montes"
+date:   2019-05-29 16:15:00 +0100
+image:  /assets/tiago.jpg
+categories: mu users 
+---
+
+Mu is not a solo effort. Many folks have [contributed to Mu](https://github.com/mu-editor/mu/graphs/contributors),
+and I will be eternally grateful for their work. With the spirit of
+recognising the voluntary contributions of others in mind, I'm going to write
+about some of our most prodigious programmers. This post, the second in this
+series, is about [Tiago Montes](https://tmont.es/).
+
+<img src="/assets/tiago.jpg"/>
+
+I first met Tiago at
+[EuroPython](https://www.europython-society.org/europython), when it was held
+in Bilbao. He was a volunteer at the beginners' day and very kindly helped my
+wife and youngest son take their first steps in Python (both were tagging along
+at the conference while I attended talks). Since then Tiago and I have kept in
+touch and, over the course of the past year, Tiago has contributed to Mu in
+many different ways.
+
+For instance, he is responsible for the Portuguese translation of the user
+interface, improved and refactored the language and locale detection Mu
+uses to display the user interface in the correct language, improved the
+configuration of continuous integration, ensured the UI works properly with
+non-ASCII characters, contributed a major rewrite of packaging setup and
+requirements management and has submitted many useful bug reports.
+
+What makes Tiago stand out is his attention to detail, formidable technical
+skill, experience and knowledge and a wonderful openness to inclusive,
+helpful and mutually respectful collaboration. Often, when I read a
+[bug report](https://github.com/mu-editor/mu/issues/created_by/tmontes)
+or
+[pull request](https://github.com/mu-editor/mu/pulls?q=is%3Apr+author%3Atmontes+is%3Aclosed)
+authored by Tiago, I am struck by how clear and accessible his
+writing is. Tiago very carefully describes a problem or solution in the
+simplest of terms and assumes no expert knowledge on the subject in hand. He
+has a knack of explaining his thought processes, suggested approaches to
+addressing technical issues and how he may have had to back out of a solution
+which turned out to be a cul-de-sac. This contributes a huge amount to making
+Mu an easy-to-collaborate-with project: new contributors feel their lack of
+knowledge is not a handicap.
+
+His patience and willingness to hear an alternative point of view or reflect
+upon an alternative solution (and perhaps change his mind as such
+alternatives are explored and developed) is all done with a friendly attitude
+which projects a sense of bonhomie. Once more, this helps to make Mu a
+welcoming and friendly project with which folks can engage.
+
+So, thank you Tiago for your efforts over the past year or so. Our project is
+improved by your presence, work and willingness to help out. Long may this
+last!
+
+:-)
