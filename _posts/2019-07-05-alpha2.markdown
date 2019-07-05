@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Alpha 2 Released with Web Mode"
+date:   2019-07-05 10:00:00 +0100
+image:  /assets/new_modes.png
+categories: mu users 
+---
+
+We are delighted to announce the release of Mu 1.1 alpha 2. Visit Mu's
+[download page](https://codewith.mu/en/download) to get installable versions
+for Windows and OSX. If you're on Linux, please run Mu from source by
+following [these instructions](https://mu.readthedocs.io/en/latest/setup.html).
+
+We're especially
+proud that alpha 2 contains the largest number of updates, from the most
+culturally diverse group of contributors for any release of Mu so far. This is
+a healthy sign that Mu is flourishing all over the world.
+
+A particular highlight of such community participation is the contribution of
+Sean Tibor, a teacher from Fort Lauderdale, Florida. A teacher contributing
+code to the tools used to teach code is a wonderful sort of virtuous circle.
+Well done Sean (whose [podcast](https://www.teachingpython.fm/), hosted with
+his colleague Kelly, is a thing of pedagogical wonder)!
+
+The full list of changes can be found in the
+[change log](https://mu.readthedocs.io/en/latest/changes.html#alpha-2) for
+this release.
+
+The most visible update is a new web mode and the "Adafruit" mode being renamed
+to "CircuitPython" mode.
+
+<img src="/assets/new_modes.png"/>
+
+The web mode makes it very simple and easy to create dynamic web
+applications using the [Flask web framework](http://flask.pocoo.org/). As the
+screenshot below shows, users are currently able to edit Python, HTML, and CSS
+files, run a local web server and view their website in their browser.
+
+<img src="/assets/web_mode.png"/>
+
+Because we want Mu to help folks succeed in making useful stuff as quickly as
+possible we've bundled some default HTML templates and stylesheets along with a
+simple code template which, if unchanged, will result in the following web
+page:
+
+<img src="/assets/mu_default_webpage.png"/>
+
+This is, of course, in the tradition of the "it works!" default website used in
+other web frameworks such as Django and Ruby on Rails.
+
+This work is unfinished. We expect to add a "deploy" button to allow users with
+the correct credentials to host their website on the cloud based infrastructure
+of our friends at
+[PythonAnywhere](https://www.pythonanywhere.com/). Expect this to appear in
+alpha 3.
+
+At the suggestion of [Adafruit](https://www.adafruit.com/)'s own
+[Dan Halbert](https://danhalbert.org/), we renamed the mode that originally
+supported just Adafruit's line of boards to "CircuitPython" mode. Why? It
+reflects the increasing popularity of CircuitPython with other manufacturers
+whose boards use the Adafruit-led
+[CircuitPython project](https://circuitpython.org/). Many thanks to
+[Benjamin Shockley](http://benjaminshockley.com/) for making this happen so
+smoothly.
+
+A special mention should be made of [Tiago Montes](/mu/users/2019/05/29/tiago.html)
+who was **on fire** during this past development phase, having contributed four
+significant updates and bug fixes. I also want to recognise the often hidden
+contributions of [Tim Golden](http://timgolden.me.uk/) and
+[Carlos Pereira Atencio](https://www.embeddedlog.com/). Without these two
+volunteers development on Mu would grind to a halt. Their patient, polite and
+positive reviews, help, support and engagement with the Mu community are an
+absolute pleasure to behold. Thank you for all you do folks!
+
+Finally, Mu is a team effort that puts our community of users at the heart of
+our development process. Many many thanks to **everyone** who has contributed
+bug reports, feedback, code, documentation and onine support that has led us
+to this release.
+
+Onwards and upwards... :-)
