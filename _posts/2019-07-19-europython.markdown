@@ -45,7 +45,7 @@ BBC micro:bits (kindly donated by the
 [micro:bit foundation](https://microbit.org/)) and made a cat game with
 PyGameZero. The
 afternoon was particularly good fun since the participants were encouraged to
-let their creative juices to flow and come up with simple coding projects of
+let their creative juices flow and come up with simple coding projects of
 their own.
 
 These two videos capture the sorts of things folks got up to. First up is a
