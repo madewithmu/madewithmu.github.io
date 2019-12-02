@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "A Manga Book on CircuitPython and Mu"
+date:   2019-12-02 12:00:00 +0100
+image:  /assets/manga_mu_face.jpg
+categories: mu users 
+---
+
+I was recently contacted by [Mitsuharu Aoyama](https://twitter.com/AoyamaProd)
+(青山光春), a Japanese maker and author. It turns out they've written a cool
+book about using [CircuitPython](https://circuitpython.org/) on the
+[Circuit Playground Express](https://www.adafruit.com/product/3333)
+with Mu. Not only is it really great to see folks write about Mu, but the book
+has wonderful Manga artwork.
+
+<img src="/assets/manga_mu.jpg"/>
+
+Many congratulations to everyone involved in publishing this book..!
+
+Mitsuharu is part of [STEAM Tokyo](https://steam-tokyo.com/) whose activities
+you can follow [on Twitter](https://twitter.com/SteamTokyo).
+
+Our paths had crossed via Twitter while the book was written and I was rather
+pleased to see the origin story for the name "Mu" got a mention since I shared
+it with Mitsuharu in a tweet. As you'll read below (and in typical fashion for
+me), there are many layers to my reason for the choice of name.
+
+<img src="/assets/mu_japanese.jpg"/>
+
+Most of all, I'm pleased such a book exists because it's validation that all
+the work done by the volunteers who contribute to Mu is paying off, especially
+so when it comes to translation and accessibility efforts. Folks
+all over the world see value in using Mu to help with their journey into
+programming, especially when used with wonderful projects such as
+[Adafruit's CircuitPython](https://circuitpython.org/) and their amazing line
+of boards.
+
+If you're a Japanese speaker, a teacher of Japanese students or Japanophile
+you can purchase the book from our friends
+[over at Adafruit](https://www.adafruit.com/product/4024).

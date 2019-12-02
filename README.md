@@ -16,3 +16,7 @@ If you'd like to contribute an article you can do so in two ways:
   question, just ask via the issue tracker!
 
 We also welcome constructive criticism, ideas and feedback..!
+
+'''
+bundle exec jekyll serve
+'''
