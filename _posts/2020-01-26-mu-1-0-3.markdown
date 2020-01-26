@@ -1,0 +1,58 @@
+---
+layout: post
+title:  Announcing Mu version 1.0.3
+date:   2020-01-26 21:30:00 +0100
+image:  /assets/mu_splash.png
+categories: mu releases
+---
+
+The [latest stable version of Mu](https://codewith.mu/en/download) is here!
+
+Version [1.0.3](https://mu.readthedocs.io/en/latest/changes.html#id1) is a
+bug-fix release with no new features.
+
+We didn't intend to cut this release but changes in the way the latest OSX
+works meant that code highlighting didn't work correctly. We also managed to
+apply a fix to an annoying bug relating to where Mu set the current working
+directory for scripts run in Python3 mode.
+
+OSX Catalina has posed a number of problems, from the incorrect rendering
+mentioned above, to the way the application should be installed and problems
+with permissions when flashing a BBC micro:bit.
+
+The simple answer to the installation story is, once you've installed Mu in
+your `Applications` folder, you should first open it with CTRL-click (not a
+double click) and select the "Open" button in the resulting pop-up. Subsequent
+runs of Mu can be started in the usual "double click" way. If you don't do the
+"CTRL-click" trick you'll see a pop-up complaining about Mu not being checked
+for malicious software.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r5ADUqVd1bs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><br/>
+
+Because OSX Catalina also interferes with disk access permissions that relate
+to the BBC micro:bit, then flashing won't work unless you run Mu as an
+administrator with the following commands in the terminal (you may also need
+to supply your password too):
+
+```
+$ cd /Applications
+$ sudo open mu-editor.app
+```
+
+If you spot any bugs, please don't [hesitate to let us know](https://codewith.mu/en/howto/bugs).
+
+Once again, many thanks to all the people in our community who have made such
+important and helpful contributions: Tim Golden for the bug fix for setting
+the current working directory and the many folks who reported and helped
+triage and fix the OSX related problems.
+
+Please accept our apologies for not releasing a fix sooner. In our defence, Mu
+is a volunteer led project and sometimes it takes a while to find the time and
+space to triage problems, updates things, [cut a release](https://mu.readthedocs.io/en/latest/release.html)
+and announce it.
+
+Finally, if you find Mu useful or would like to support the goals of this
+project, you might want to think about sponsoring the creator and lead
+maintainer [Nicholas Tollervey](http://ntoll.org/article/sponsorship).
