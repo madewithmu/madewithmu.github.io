@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Announcing Mu version 1.1.0-beta.2"
+date:   2021-03-15 20:30:00 +0100
+image:  /assets/icon.png
+categories: mu users 
+---
+
+<img src="/assets/computer_recommend.gif"/>
+
+After months of work, by many contributors, we're delighted to announce
+the release of Mu 1.1.0 beta 2. This is the version we recommend you use, and
+you should update to this version via our official installers that you can
+[download from here](https://codewith.mu/en/download).
+
+The full list of updates can be found in
+[our CHANGELOG](https://mu.readthedocs.io/en/latest/changes.html). Of course,
+this being a beta release, **we expect there to be bugs**. Please don't
+hesitate to give feedback and
+[report any problems you may find](https://codewith.mu/en/howto/1.1/bugs).
+
+We'll be making further beta releases as this past year's efforts come
+together, and we continue to develop new features, fix bugs and enhance Mu.
+You are most welcome to contribute via our
+[GitHub repository](https://github.com/mu-editor/mu/). All our previous
+releases are available [via GitHub](https://github.com/mu-editor/mu/releases).
+
+I want to make special mention and celebrate the work of:
+
+* Long time Mu contributor [Tim Golden](https://twitter.com/tjguk) who
+  (foolishly?) offered to help with Mu's handling of Python packages. His epic
+  and Herculean efforts ensure Mu uses Pythonic virtual environments for
+  package management. Thank you for this outstanding contribution Tim.
+* University lecturer
+  [Martin Dybdal](https://di.ku.dk/Ansatte/tap/?id=304036&vis=medarbejder) has
+  made many numerous changes to Mu. The editor is vastly improved by
+  Martin's fearless quest to improve all aspects of the code base. He has also
+  been the driving force behind the new ESP mode that he uses to teach his
+  students about
+  [ESP based MicroPython wrist-watches](https://m5guide.readthedocs.io/en/latest/).
+  Tak for al din hjælp Martin.
+* [Carlos Pereira Atencio](https://twitter.com/carlosperate) of the MicroBit
+  Foundation has been a formidable and talented contributor to Mu from the very
+  beginning. Without Carlos's exceptional work, touching all aspects of Mu, our
+  efforts would be significantly impaired. As an embedded engineer his
+  MicroPython related insights have been invaluable and it is Carlos who has
+  ensured Mu works with the super-duper version 2 of the MicroBit. Muchas
+  gracias Carlos.
+* The ever mysterious [Zander Brown](https://zanderbrown.github.io/) (Mu's
+  answer to [The Stig](https://en.wikipedia.org/wiki/The_Stig)) continues to
+  contribute help and support to our users via our
+  [online discussion forum](https://gitter.im/mu-editor/general). As a student
+  himself he knows how important it is to get the right sort of help, and
+  Zander is ever patient, polite and positive in his mentorship role. Thank you
+  Zander for making Mu's online presence such a positive and collaborative
+  space.
+* Finally, the Pythonic force-of-nature that is
+  [Tiago Montes](https://twitter.com/setnomt) has, through his magnificent work
+  on [PUP](https://github.com/mu-editor/pup), made packaging Mu a joy.
+  As those who know about packaging software will
+  tell you, this is an incredible achievement and means we can cut a newly
+  packaged release within minutes, rather than hours (as was before). Tiago's
+  infectious postivity, enthusiasm and humour have sustained many of us over
+  the course of the recent efforts on Mu. Obrigado por um trabalho tão incrível
+  Tiago. :-)
+
+<br/>
+
+Finally, what happened to the beta 1 release..?
+
+It was essentially a dress
+rehearsal and bug "shake down" that took place at the beginning of February. We
+learned a lot (and fixed many bugs) as a result of that beta, but it wasn't
+ever ready for public view.
+
+Many thanks to those who continue to offer support to Mu. Many thanks to those
+who teach with Mu - you're helping the engineers and developers of tomorrow
+find their feet and flourish. Many thanks to those beginners who, despite how
+intimidating it must feel, engage with us and help us to improve Mu ~ you are
+especially welcome here.
