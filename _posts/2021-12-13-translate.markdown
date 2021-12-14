@@ -44,7 +44,7 @@ not yet been translated (i.e. those added during the development of version
 [can be found in the `locale` directory](https://github.com/mu-editor/mu/tree/master/mu/locale)
 and, if you're looking for an example of the sorts of update we're looking for,
 you can't go far wrong looking at Vasco's
-[update of the Portuese translation](https://github.com/mu-editor/mu/pull/1795).
+[update of the Portuguese translation](https://github.com/mu-editor/mu/pull/1795).
 
 If you want to add a translation for a _new_ language, you should use the
 following convenience commands now built into our Makefile:
