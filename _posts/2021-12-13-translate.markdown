@@ -30,7 +30,7 @@ language and being culturally sensitive through our user interface.
 
 If you have any doubt of the importance of
 this sort of thing, here's a wonderful video of some young Chinese students
-saying thank you being able to learn Python in Mu...
+saying thank you for being able to learn Python in Mu...
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w3hQglx5Kj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
