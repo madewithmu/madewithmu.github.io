@@ -6,6 +6,8 @@ image:  /assets/icon.png
 categories: mu users 
 ---
 
+**UPDATE: Coordination of translations is being done [via this discussion on GitHub](https://github.com/mu-editor/mu/discussions/1931).**
+
 <img src="/assets/mu_in_chinese.png"/>
 
 Education is a right, not a privilege.
@@ -22,7 +24,7 @@ absolute beginner, you don't know English at all?
 
 Clearly, you'll face challenges learning Python.
 
-This is where translating Mu comes into play. We _care very
+This is where [translating Mu](https://github.com/mu-editor/mu/discussions/1931) comes into play. We _care very
 deeply_ that learners are able to take their first steps with
 Python in a tool that works in _their language_. We try
 very hard to meet learners where they are, and that includes their native
@@ -60,6 +62,8 @@ friendly team and you can ask questions via
 [our Gitter channel](https://gitter.im/mu-editor/general)
 or via a 
 [pull request on GitHub](https://github.com/mu-editor/mu/pulls).
+
+**Coordination of translations is being done [via this discussion on GitHub](https://github.com/mu-editor/mu/discussions/1931).**
 
 This is the last work needed in our codebase for us to release version 1.1.
 
