@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Announcing a new stable release: 1.1.1"
+date:   2022-02-22 18:40:00 +0100
+image:  /assets/icon.png
+categories: mu users 
+---
+
+At last, after what feels like a huge amount of time and effort, we're
+delighted to release a new stable release of Mu.
+
+Huge thanks to the many many contributors who volunteered their time to help
+make this happen. If you want to see the making of Mu unfold, check out
+[this video](https://github.com/mu-editor/mu/issues/2060) (can you spot the "deliberate mistake"?):
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nOMCS_8Bm-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>
+What exactly are you looking at?
+
+* The faces represent the developers.
+* The multi-coloured blobs are the source code files that make up Mu.
+* The lines between the source code blobs show how the files are organised
+  together into directories.
+* As time passes, developers can be seen to change, add and delete files as
+  the project matures.
+
+<br/>
+Kudos and thanks to Mu contributors [RPLKTR](https://rplktr.com/) for the music
+and [Hawkz](https://www.dev.ngo/) for the animated logo.
+
+This final release includes the following highlights and changes:
+
+<ul>
+<li>Minor clean ups in the Makefile.</li>
+<li>Thank you to <a href="https://github.com/microbit-mark">@microbit-mark</a> for updating the board IDs to support version 2.2 of the device.</li>
+<li>Updates to the Chinese translation by <a href="https://github.com/CSharperMantle">@CSharperMantle</a>. 謝謝。</li>
+<li>Updates to the Slovak translation by <a href="https://github.com/bletvaska">@bletvaska</a>. Ďakujem.</li>
+<li>The foundations of a brand new Russian translation of Mu by <a href="https://github.com/grovz">@grovz</a> with contributions from <a href="https://github.com/iamdbychkov">@iamdbychkov</a>. спасибо!</li>
+<li>Thanks to <a href="https://github.com/MinoruInachi">@MinoruInachi</a> (with feedback from <a href="https://github.com/odaki">@odaki</a>) for a revised Japanese translation for Mu. ありがとうございます</li>
+<li>Due to complicated dependency problems, we've updated the bundled version of Flask to 2.0.3. Thanks to <a href="https://github.com/carlosperate">@carlosperate</a> for quickly resolving this problem.</li>
+<li>Due to limitations in the way Windows MSI installers work, we're releasing this version as 1.1.1 (rather than 1.1.0).</li>
+</ul>
+
+<br/>
+That's it..! Please provide bug reports or feedback via [our GitHub repository](https://github.com/mu-editor/mu/issues/new).
+
+Next stop, Mu2.0. If you'd like to help, please don't hesitate to get in touch.
+
+:-)
