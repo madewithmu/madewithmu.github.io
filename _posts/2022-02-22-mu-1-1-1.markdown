@@ -7,7 +7,7 @@ categories: mu users
 ---
 
 At last, after what feels like a huge amount of time and effort, we're
-delighted to release a new stable release of Mu.
+delighted to release a new stable release of Mu. You can [download it here](https://codewith.mu/en/download).
 
 Huge thanks to the many many contributors who volunteered their time to help
 make this happen. If you want to see the making of Mu unfold, check out
