@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Announcing a new stable release: 1.2.0"
+date:   2022-11-15 11:30:00 +0100
+image:  /assets/icon.png
+categories: mu users 
+---
+
+Mu is a Pythonic beginner's code editor created by volunteers in the community.
+
+It provides an easy answer to the question beginners always ask, "but how do I
+start?".
+
+Simple, <a href="https://codewith.mu/en/download">download Mu</a>.
+
+Today, we're delighted to announce the next stable release of Mu: 1.2.0.
+
+<img src="/assets/snek.svg" style="border: 0;"/>
+
+This release introduces Snek mode, fixes some minor bugs, addresses some usability gremlins and adjusts some capabilities to make things tidier. Much of this work was done over the summer at the code-sprints at EuroPython 2022 in Dublin. Kudos and thanks to all the new contributors to Mu.
+
+What's new?
+
+<ul>
+<li>Thanks to <a href="https://github.com/keith-packard">@keith-packard</a> for Snek mode. <a href="https://sneklang.org/" rel="nofollow">Snek</a> is a   Python inspired language for processors too small even to run MicroPython.</li>
+<li><a href="https://github.com/tmontes">@tmontes</a> contributed changes so Mu builds to Linux AppImages (an easy way to   package application for Linux).</li>
+<li>Minor fixes by <a href="https://github.com/stratakis">@stratakis</a> in the Russian translation.</li>
+<li><a href="https://github.com/carlosperate">@carlosperate</a> fixed many minor glitches and gremlins.</li>
+<li><a href="https://github.com/carlosperate">@carlosperate</a> was on fire with fixes needed to ensure Mu continues to work with very old versions of OSX (as used in many educational institutions).</li>
+<li>Again, thanks to <a href="https://github.com/carlosperate">@carlosperate</a>, AppImage with Wayland no longer requires the setting  of an environment variable to make it work properly.</li>
+<li>The web mode includes simple and easy to use integration with beginner and education friendly web hosts, <a href="https://pythonanywhere.com/">PythonAnywhere</a>.</li>
+<li><a href="https://github.com/agdales">@agdales</a>, <a href="https://github.com/Jeffrey04">@Jeffrey04</a>, <a href="https://github.com/johannaengland">@johannaengland</a> and <a href="https://github.com/AnjaVerboven">@AnjaVerboven</a> contributed new messages of the day as part of their onboarding at EuroPython.</li>
+<li><a href="https://github.com/tonybaloney">@tonybaloney</a> contributed several Windows based fixes and clean-ups.</li>
+<li><a href="https://github.com/johannaengland">@johannaengland</a> and <a href="https://github.com/prcutler">@prcutler</a> were on fire tidying up and fixing docs at  EuroPython.</li>
+<li>A bug was fixed in the web mode relating to the resolution and/or recreation of the assets directory (in which images, css and templates were to be found).</li>
+<li>Or friend at Adafruit, <a href="https://github.com/tannewt">@tannewt</a> made the necessary changes so Mu handles OSC commands gracefully (see the <a href="https://github.com/mu-editor/mu/pull/2326">PR</a> for more details).</li>
+<li>New contributor, <a href="https://github.com/zigit">@zigit</a> ensured "Unexpected Maker" based ESP boards are correctly detected.</li>
+<li>Thanks to <a href="https://github.com/Jayman2000">@Jayman2000</a>, error messages are correctly capitalized (or not) to avoid potential confusion.</li>
+</ul><br/>
+
+<p>That's it, and a huge thanks to everyone who has contributed code,
+documentation, bug reports, feedback and encouragement..!</p>
