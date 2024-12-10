@@ -23,7 +23,7 @@ In more detail: When Mu was first created, there was a need for something
 Mu-ish and we were able to quickly build what teachers, beginners and those who
 support them asked for. Almost ten years later, there are lots of well funded
 and supported tools that fulfil the reason Mu was created. Furthermore, we (the
-core team) are volunteers and our lives have moved on to new jobs, new
+core team) are volunteers and our lives have moved onto new jobs, new
 interests and new communities. However, we all feel very fond of Mu, and proud
 of what we have achieved, so we want to honour the community that has coalesced
 around Mu and ensure the retirement is smooth, predictable and doesn't leave
