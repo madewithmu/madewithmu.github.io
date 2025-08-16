@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "RIP Mu"
+date:   2025-08-16 18:0:00 +0100
+image:  /assets/icon.png
+categories: mu users 
+---
+
+Late last year we announced we'd retire Mu. The core maintainers have all moved
+onto other things, our lives have changed and the time we have available to
+maintain Mu has significantly decreased. Perhaps most of all, the world has
+moved on: when Mu started we were unique in the coding ecosystem. Now there are
+plenty of development environments focused on beginners.
+
+We also promised we'd try to cut a final release.
+
+Sadly, we've collectively decided we will not be able to do this.
+
+Why?
+
+Well, the cost of hosting websites (mostly the domain registration fees), the
+price of digital certificates for signing the installers, the annual fee to
+register for the privilege of participating on a platform (we're looking at you
+Apple) and the time needed to investigate, refine and update code to work with
+the latest versions of other projects in the Python ecosystem are all
+inordinately expensive in terms of time and money. Were I (Nicholas) to pay all
+the financial burdens mentioned above, I estimate I'd have to pay around £1000.
+The cost in personal free time (that none of us have) for the development work
+is significant since this is deeply technical stuff we shoulder so you, the end
+user, don't have to.
+
+Yes, Mu is free software. No, Mu is not free software.
+
+Let's just say it's complicated, shall we..? ;-)
+
+Therefore the core maintainers have come to the decision to gently step away
+from Mu with immediate effect.
+
+What happens next?
+
+* Mu and its associated projects / websites will be put into archive mode at
+  the start of September. This means the source code will always be available
+  on Github.
+* As the domains associated with Mu expire the websites will go offline over
+  the next year. However, the content of the websites will always be available
+  via [archive.org](https://web.archive.org/web/20250000000000*/codewith.mu).
+* I (Nicholas) will write a personal blog post reflecting on this journey: the
+  good, the bad and (sadly) the ugly. This will appear
+  [on my blog](https://ntoll.org/) before the end of the year.
+
+That's it!
+
+Wishing you all feelings of fulfilment as you flourish through your journey in
+code. We, the Mu core developers, sincerely hope you use your technical skills
+for fun things that enlarge our world in a humane, compassionate and thoughtful
+way.
+
+Peace,
+
+Carlos, Tiago, Tim, Vasco and Nicholas.
+
+(The Mu core developers.)
