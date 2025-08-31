@@ -1,5 +1,7 @@
 # madewithmu.github.io
 
+**THIS PROJECT IS NO LONGER MAINTAINED**
+
 A simple blog for celebrating projects made with the code editor Mu.
 
 If you'd like to contribute an article you can do so in two ways:
